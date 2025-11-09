@@ -1,4 +1,3 @@
-/*
 # 🧮 CODEALPHA INTERNSHIP — TASK 2: MATRIX OPERATIONS IN C
 ==========================================================
 
